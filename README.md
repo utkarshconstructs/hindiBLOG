@@ -1,0 +1,2 @@
+# hindiBLOG
+For a Magazine
